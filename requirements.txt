@@ -1,0 +1,9 @@
+requests
+aiogram
+cryptocompare
+python-decouple
+redis
+loguru
+peewee
+psycopg2-binary
+peewee-migrate
